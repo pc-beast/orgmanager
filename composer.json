@@ -27,7 +27,7 @@
         "orgmanager/orgmanager-logos": "^1.0",
         "php-http/cache-plugin": "^1.4",
         "php-http/guzzle6-adapter": "^1.1",
-        "sentry/sentry-laravel": "^0.8.0"
+        "sentry/sentry-laravel": "^2.1.1"
     },
     "require-dev": {
         "beyondcode/laravel-dump-server": "^1.0",
